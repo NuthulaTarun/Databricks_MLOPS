@@ -1,0 +1,18 @@
+# Databricks CLI for interacting with Databricks
+databricks-cli
+
+# MLflow for experiment tracking
+mlflow
+
+# Data Processing
+pandas
+numpy
+scikit-learn
+
+# Unit Testing
+pytest
+
+# Code Linting
+flake8
+
+# GitHub Actions Runner (not needed locally, but useful for CI)
